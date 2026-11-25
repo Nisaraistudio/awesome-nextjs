@@ -89,6 +89,7 @@ Tools for building AI-powered Next.js applications.
 - [Prettier](https://prettier.io/) — Opinionated code formatter.
 - [TypeScript](https://www.typescriptlang.org/) — Typed JavaScript.
 - [pnpm](https://pnpm.io/) — Fast package manager.
+- [WebDecoy Next.js adapter](https://github.com/WebDecoy/node/tree/main/packages/nextjs) — TypeScript adapter for observing crawler requests in Next.js, with a Vercel integration.
 
 ## Learning Resources
 
